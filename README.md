@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SEKO Logistics is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://sekologistics.com/
+SEKO Logistics is a global logistics provider offering freight forwarding, customs clearance, warehousing, and last‑mile delivery services. It serves customers worldwide across multiple regions, providing integrated supply‑chain solutions, e‑commerce fulfillment, and specialized logistics for industries such as healthcare and technology. The company emphasizes technology‑driven visibility, sustainability, and compliance with international trade regulations.
+
+**Areas:** Company · Logistics · Freight · SupplyChain · ECommerce
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.sekologistics.com/)
+- [Documentation](https://developer.sekologistics.com/)
+- [Terms of service](https://www.sekologistics.com/en/resources/terms-and-conditions-of-service/)
+- [Privacy policy](https://www.sekologistics.com/en/privacy-center/)
+- [GitHub](https://github.com/Sekologistics)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/seko-logistics/](https://apis.io/providers/seko-logistics/).
